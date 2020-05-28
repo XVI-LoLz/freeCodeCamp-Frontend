@@ -1,0 +1,21 @@
+.text{
+  font-size: clamp(16px, 8vw, 32px);
+  font-weight: 300;
+  color: #ffffff;
+  text-shadow: 4px 4px 2px #545454;
+}
+
+.text span{
+  font-weight: bold;
+}
+
+.author{
+  align-self: flex-end;
+  font-size: clamp(16px, 8vw, 18px);
+  color: #272727;
+  text-shadow: 12px 8px 2px #6866cc;
+}
+
+.center-text{
+  text-align: center;
+}

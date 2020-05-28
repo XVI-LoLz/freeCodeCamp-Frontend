@@ -1,7 +1,7 @@
 import React from 'react'
-import './styles/App.css'
 import Box from './Box'
 import { getArchive, getRandomQuote } from '../utils/archive'
+import './styles/App.css'
 
 export default function App () {
   const [ currentIndex, setCurrentIndex ] = React.useState(0)

@@ -1,5 +1,15 @@
+.quote{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  width: 66%;
+}
+
 .text{
-  font-size: clamp(16px, 8vw, 32px);
+  text-align: left;
+
+  font-size: clamp(16px, 6vw, 48px);
   font-weight: 300;
   color: #ffffff;
   text-shadow: 4px 4px 2px #545454;
@@ -10,12 +20,18 @@
 }
 
 .author{
-  align-self: flex-end;
-  font-size: clamp(16px, 8vw, 18px);
+  text-align: right;
+
+  font-size: clamp(4px, 4vw, 28px);
   color: #272727;
   text-shadow: 12px 8px 2px #6866cc;
 }
 
-.center-text{
-  text-align: center;
+@media (min-width: 416px){
+  .text{
+    font-size: clamp(16px, 8vw, 72px);
+  }
+  .author{
+    font-size: clamp(4px, 6vw, 44px);
+  }
 }

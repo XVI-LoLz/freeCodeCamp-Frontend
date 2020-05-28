@@ -1,0 +1,59 @@
+.interaction{
+  display: flex;;
+  flex-direction: row;
+  justify-content: center;
+
+  margin: 24px;
+
+  width: 80%;
+  height: 48px;
+}
+
+.interaction .a:visited{
+  
+}
+.tweet {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  padding: 12px;
+  border-radius: 16px 0 0 16px;
+  color: #1DA1F2;
+  background-color: white;
+  text-decoration: none;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1rem;
+}
+
+.tweet img{
+  width: 24px;
+  height: 24px;
+  color: #1DA1F2
+}
+
+.next-quote{
+  padding: 12px;
+  border-radius: 0 16px 16px 0;
+  border: none;
+  background-color: #373737;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1rem;
+}
+
+.next-quote:focus{
+  outline: none;
+}
+
+.next-quote:hover{
+  background-color: #777;
+}
+
+.next-quote:active{
+  color: #141414;
+}
+
+@media (min-width: 416px){
+}

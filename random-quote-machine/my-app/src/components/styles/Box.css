@@ -7,5 +7,5 @@
   height: 80%;
 
   border-radius: 16px;
-  background: linear-gradient(31deg, rgba(255,56,138,1) 0%, rgba(0,170,255,1) 100%);
+  background: linear-gradient(31deg, rgba(255,56,138,0.66) 0%, rgba(0,170,255,0.66) 100%);
 }

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp-Frontend/static/css/main.429935a7.chunk.css",
+    "main.js": "/freeCodeCamp-Frontend/static/js/main.87fbc1e4.chunk.js",
+    "main.js.map": "/freeCodeCamp-Frontend/static/js/main.87fbc1e4.chunk.js.map",
+    "runtime-main.js": "/freeCodeCamp-Frontend/static/js/runtime-main.41c4e36d.js",
+    "runtime-main.js.map": "/freeCodeCamp-Frontend/static/js/runtime-main.41c4e36d.js.map",
+    "static/js/2.2692c5c5.chunk.js": "/freeCodeCamp-Frontend/static/js/2.2692c5c5.chunk.js",
+    "static/js/2.2692c5c5.chunk.js.map": "/freeCodeCamp-Frontend/static/js/2.2692c5c5.chunk.js.map",
+    "index.html": "/freeCodeCamp-Frontend/index.html",
+    "precache-manifest.ecd8f581f1e31f95976f38e709ae8785.js": "/freeCodeCamp-Frontend/precache-manifest.ecd8f581f1e31f95976f38e709ae8785.js",
+    "service-worker.js": "/freeCodeCamp-Frontend/service-worker.js",
+    "static/css/main.429935a7.chunk.css.map": "/freeCodeCamp-Frontend/static/css/main.429935a7.chunk.css.map",
+    "static/js/2.2692c5c5.chunk.js.LICENSE.txt": "/freeCodeCamp-Frontend/static/js/2.2692c5c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/freeCodeCamp-Frontend/static/media/streets-japan-min.01bc2808.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41c4e36d.js",
+    "static/js/2.2692c5c5.chunk.js",
+    "static/css/main.429935a7.chunk.css",
+    "static/js/main.87fbc1e4.chunk.js"
+  ]
+}

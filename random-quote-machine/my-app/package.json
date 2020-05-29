@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://xvi-lolz.github.io/freeCodeCamp-Frontend/",
+  "homepage": "https://xvi-lolz.github.io/fcc-random-quote-machine/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",

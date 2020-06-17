@@ -5,5 +5,7 @@
 You can check the live version [here](https://xvi-lolz.github.io/fcc-random-quote-machine/)
 
 ### Notes
+The *Tweet Quote* button lacks the ability to type the quote when the Twitter window is opened.
+
 This is a project for the freeCodeCamp Frontend certification.
 If you want to learn Web Development you can go to [freeCodeCamp](https://www.freecodecamp.org/)!
